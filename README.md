@@ -61,7 +61,7 @@ A struct consisting only of a few exported fields must not have fields added (ex
 Removing or renaming exported fields from an existing struct is of course a compatibility breaking change.
 
 ### Frozen
-![stability-frozen](https://img.shields.io/badge/stability-frozen-brightgreen.svg)
+![stability-frozen](https://img.shields.io/badge/stability-frozen-blue.svg)
 
 This API will not change anymore at all.
 
