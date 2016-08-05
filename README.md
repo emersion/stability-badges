@@ -18,7 +18,7 @@ Packages should not remain _Experimental_ for too long, as the lack of API stabi
 ### Unstable
 ![stability-unstable](https://img.shields.io/badge/stability-unstable-yellow.svg)
 
-This API is not stable yet, but backwards-compatibility will be maintained if reasonable.
+This API is not stable yet, but backwards-compatibility will be maintained if possible.
 
 ```markdown
 [![stability-unstable](https://img.shields.io/badge/stability-unstable-yellow.svg)](https://github.com/emersion/stability-badges#unstable)
