@@ -2,6 +2,8 @@
 
 SVG badges for Go projects.
 
+> **Note**: now that Go modules are a thing, indicating stability of a Go package shouldn't be necessary anymore.
+
 ## Badges
 
 ### Experimental
